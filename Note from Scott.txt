@@ -1,0 +1,2 @@
+Instructions for each Labfile (python or c-sharp) is in the Program.cs file 
+in each project's C-sharp directory
